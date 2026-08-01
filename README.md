@@ -28,7 +28,7 @@
   <a href="camis_bispo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
- <div data-importer="socials" align="left">
+ <a data-importer="socials" align="left">
   <a href="https://open.spotify.com/user/315agv5kjxgbn5jeoloswom4r3wy?si=TjzC6MH2RyiUhpdAI2W5yQ&utm_source=whatsapp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
