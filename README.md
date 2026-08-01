@@ -7,7 +7,7 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Oieee eu sou a Camila </h1>
 
 ###
 
