@@ -1,9 +1,9 @@
 
 
-- 🌱 Atualmente estou aprendendo Manufatura Digital
+- 📔 Atualmente estou aprendendo Manufatura Digital
 - 🤔 Procuro ajuda com linguagem da programação
 - 💬 Pergunte-me sobre recomendações de livros
-- 📫 How to reach me: camilasantosbispo392@gmail.com
+- 📫 Como entrar em contato comigo: camilasantosbispo392@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
