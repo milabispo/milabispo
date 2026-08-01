@@ -7,7 +7,7 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
-<h1 data-importer="text" align="center">Oieee eu sou a Camila </h1>
+<h1 data-importer="text" align="center">Oieee eu sou a Camis :) </h1>
 
 ###
 
@@ -33,11 +33,5 @@
   </a>
 </div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milabispo/milabispo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milabispo/milabispo/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/milabispo/milabispo/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
-###
 ###
