@@ -1,4 +1,4 @@
-## Olá, eu sou a Camila 👋
+
 
 - 🌱 I’m currently learning Manufatura Digital
 - 🤔 I’m looking for help with linguagens da programação
@@ -7,7 +7,7 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">## Olá, eu sou a Camila 👋</h1>
 
 ###
 
