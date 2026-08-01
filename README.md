@@ -1,10 +1,10 @@
 
 
 - 🌱 Atualmente estou aprendendo Manufatura Digital
-- 🤔 I’m looking for help with linguagens da programação
+- 🤔 Procuro ajuda com linguagem da programação
 - 💬 Ask me about recomendações de livros
 - 📫 How to reach me: camilasantosbispo392@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
 <h1 data-importer="text" align="center">Oieee eu sou a Camis :) </h1>
