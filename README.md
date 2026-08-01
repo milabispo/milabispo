@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning Manufatura Digital
+- 🌱 Atualmente estou aprendendo Manufatura Digital
 - 🤔 I’m looking for help with linguagens da programação
 - 💬 Ask me about recomendações de livros
 - 📫 How to reach me: camilasantosbispo392@gmail.com
