@@ -7,12 +7,11 @@
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
-<h1 data-importer="text" align="center"> Olá, eu sou a Camila 👋</h1>
-
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
 ###
 
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
@@ -34,5 +33,4 @@
   </a>
 </div>
 
-###
 ###
