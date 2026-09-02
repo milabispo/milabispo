@@ -4,7 +4,7 @@
 - 📫 Como entrar em contato comigo: camilasantosbispo392@gmail.com
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
-<h1 data-importer="text" align="center">Oieee eu sou a Camis :) </h1>
+<h1 data-importer="text" align="center">Oieee eu sou a Camis ;p </h1>
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
