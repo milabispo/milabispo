@@ -1,6 +1,4 @@
 
-
-- ✨ Pergunte-me sobre recomendações de livros
 - 📫 Como entrar em contato comigo: camilasantosbispo392@gmail.com
 - ⚡ Fun fact: amo aprender com cursos rápidos
   
